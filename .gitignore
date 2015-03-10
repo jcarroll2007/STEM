@@ -6,3 +6,5 @@ app/bower_components
 .tmp
 test/bower_components/
 test/output
+app/styles/main.css
+app/scripts/keys.js

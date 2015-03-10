@@ -8,7 +8,8 @@
     "underscore": "~1.7.0",
     "normalize.css": "~3.0.2",
     "underscore.string": "~3.0.3",
-    "backbone-filtered-collection": "~0.4.0"
+    "backbone-filtered-collection": "~0.4.0",
+    "valence-sdk-javascript": "Brightspace/valence-sdk-javascript#~1.0.2"
   },
   "devDependencies": {
     "less.js": "~2.4.0"
