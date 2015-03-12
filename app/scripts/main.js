@@ -24,6 +24,14 @@ window.Stem = {
         oae: {
             host: 'stemincubator.oae-qa1.oaeproject.org',
             protocol: 'http:'
+        },
+        d2l: {
+            appId: '_Xcx8T4j-UpDCIvl6S73-A',
+            host: 'gatech.brightspace.com',
+            protocol: 'https',
+            port: '443',
+            orgId: '6614',
+            user: 'stemincubator'
         }
     },
 
